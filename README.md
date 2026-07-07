@@ -50,10 +50,6 @@ Passionate about learning new technologies, solving complex problems, and buildi
 
 📧 Email: e0556729842@gmail.com
 
-To make the email open automatically:
-
-`mailto:YOUR_EMAIL@example.com?subject=Job%20Opportunity`
-
 
 📱 Phone: 0556729842
 
